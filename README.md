@@ -22,6 +22,8 @@ Soul Matrices are authored human-in-the-loop. Every section of the framework is 
 
 Character specifications built with this framework are held private; the methodology is public.
 
+A worked example architecture is in preparation and will be added following stress-testing.
+
 ## Attribution and license
 
 All content in this repository is the original work of Kristina Leticia Rodriguez, (c) 2026.

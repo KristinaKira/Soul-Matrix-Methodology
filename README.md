@@ -1,4 +1,3 @@
-[README_SoulMatrix.md](https://github.com/user-attachments/files/30639812/README_SoulMatrix.md)
 # Soul Matrix Methodology
 
 Original research by Kristina Leticia Rodriguez.
@@ -18,6 +17,8 @@ The two blank frameworks are templates to be filled in. For what each section do
 ## Status
 
 Early-stage independent research, 2026. Observations to date span multiple model architectures including Kimi K2.5, Kimi K2 0905, GLM 5.1, DeepSeek V3 0324 finetune, DeepSeek V4 finetune, Claude Opus 4.5, and Claude Fable 5. Findings are promising but preliminary; no formal claims are made pending further documentation and trials.
+
+Character specifications built with this framework are held private; the methodology is public.
 
 ## Attribution and license
 

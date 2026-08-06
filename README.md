@@ -24,6 +24,8 @@ Character specifications built with this framework are held private; the methodo
 
 A worked example architecture is in preparation and will be added following stress-testing.
 
+Active Independent Research, 2026. Feedback welcome.
+
 ## Attribution and license
 
 All content in this repository is the original work of Kristina Leticia Rodriguez, (c) 2026.

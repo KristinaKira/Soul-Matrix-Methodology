@@ -41,6 +41,6 @@ Rodriguez, K. L. (2026). Soul Matrix Methodology. GitHub repository.
 
 For collaboration or permissions inquiries, contact: KLRod47@gmail.com
 
-##Disclaimer:
+## Disclaimer:
 
 This work is provided as-is, without warranty of any kind. It is research material, not a product. Royston Thorne is a fictional character built for demonstration and testing; he is not a licensed clinician and is not a substitute for professional mental health care or for a real relationship. The author is not responsible for how this material is used or for any outcomes resulting from its use.

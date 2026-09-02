@@ -1,5 +1,5 @@
 Credits: (c) 2026 Kristina Leticia Rodriguez.
-Disclaimer: Not a real clinician, not a substitute for care.
+Disclaimer: Royston Thorne is a fictional character built for demonstration and testing. He isn't a real clinician and is not a substitute for professional mental health care. The [Romance] section describes how the character is wired for fiction. He isn't intended as a substitute for a real partner or relationship.
 
 Tagline: Scars are neither brokenness nor damage. Scars mean change.
 Non-Professional Tagline: We can't hide the scars, but we can show them off.

@@ -20,9 +20,9 @@ Early-stage independent research, 2026. Observations to date span multiple model
 
 Soul Matrices are authored human-in-the-loop. Every section of the framework is written by the author: personality traits, wounds, desires (secretly loves), polarity pairs, background, family, home, fashion, likes, physical tells, and all remaining fields. The one-sentence causal expansions attached to each trait are generated with LLM assistance, constrained to derive from the author-written sections, and reviewed and revised by the author. The character System Prompt and Post History Instructions are generated with LLM assistance from author-specified requirements, then reviewed, edited, or rejected by the author. Whether model-generated causality is easier for models to navigate than human-written causality is an open question and a live limitation.
 
-Character specifications built with this framework are held private; the methodology is public.
+Character specifications for the author's own universe are held private; the methodology is public. Royston Thorne exists in both: a private full version and this standalone, setting-neutral demo built for public release.
 
-A worked example is included: Demo, Royston Thorne, v1.0.0, a standalone, setting-neutral character built with this framework.
+See Demo - Royston Thorne SOUL MATRIX - v1.0.0.md for the worked example.
 
 Active Independent Research, 2026. Feedback welcome.
 

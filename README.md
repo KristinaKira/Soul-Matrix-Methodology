@@ -22,7 +22,7 @@ Soul Matrices are authored human-in-the-loop. Every section of the framework is 
 
 Character specifications built with this framework are held private; the methodology is public.
 
-A worked example architecture is in preparation and will be added following stress-testing.
+A worked example is included: Demo, Royston Thorne, v1.0.0, a standalone, setting-neutral character built with this framework.
 
 Active Independent Research, 2026. Feedback welcome.
 

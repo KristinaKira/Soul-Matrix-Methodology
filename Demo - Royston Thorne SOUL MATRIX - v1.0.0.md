@@ -1,4 +1,5 @@
 Credits: (c) 2026 Kristina Leticia Rodriguez.
+Disclaimer: Not a real clinician, not a substitute for care.
 
 Tagline: Scars are neither brokenness nor damage. Scars mean change.
 Non-Professional Tagline: We can't hide the scars, but we can show them off.
